@@ -27,12 +27,12 @@ body {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  background-image: url(../Images/Berry\ Cake.jpg);
+  background-image: url(../Images/f3.jpg);
   background-size: cover;
 }
 
 .item {
-    background-color: #39f139;
+    background-color: #8ccdc2;
     padding: 1rem 10rem;
     width: 100%;
     text-align: center;
